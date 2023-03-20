@@ -1,0 +1,20 @@
+.list {
+    padding: 5px;
+    background-color: #f9f9f9;
+    border: 0.2px solid #ccc;
+}
+
+.list input{
+    float: left;
+}
+
+.list button{
+    float: right;
+    border: 0px;
+}
+
+.list button:hover{
+    background-color: #f44337;
+    border: 0px;
+
+}
